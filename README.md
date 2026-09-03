@@ -149,6 +149,13 @@ Residual plots are used to investigate how prediction errors are distributed acr
 - Scikit-learn
 - Jupyter Notebook / Google Colab
 
+## Conclusion
+The project demonstrates the application and comparison of different linear regression approaches to a real estate price prediction problem.
+
+The experiments highlight the importance of comparing model complexity, predictive performance and generalization rather than relying on a single evaluation metric.
+
+The analysis also shows how regularization techniques such as Ridge, Lasso and Elastic Net can be incorporated into a regression workflow and evaluated using cross-validation.
+
 ## Project Structure
 
 ```text
